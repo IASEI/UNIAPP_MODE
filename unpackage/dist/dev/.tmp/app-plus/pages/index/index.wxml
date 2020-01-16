@@ -1,0 +1,1 @@
+<view style="flex:1;"><uni-load-more vue-id="1" loadingType="{{loadingType}}" contentText="{{contentText}}" bind:__l="__l"></uni-load-more></view>

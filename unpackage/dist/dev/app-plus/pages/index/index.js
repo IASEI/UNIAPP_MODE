@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"newslist { padding: 10px; line-height: 60px; font-size: 28px; }\n.",[1],"loading { text-align: center; line-height: 80px; }\n",],undefined,{path:"./pages/index/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/index.wxml') } }));

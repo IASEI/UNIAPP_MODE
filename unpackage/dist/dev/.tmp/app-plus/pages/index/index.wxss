@@ -1,0 +1,11 @@
+
+.newslist {
+    padding: 10px;
+    line-height: 60px;
+    font-size: 28px;
+}
+.loading {
+    text-align: center;
+    line-height: 80px;
+}
+
