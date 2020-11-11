@@ -1,0 +1,86 @@
+/* 字号相关 */
+.font20{font-size: 20rpx;}
+.font24{font-size: 24rpx;}
+.font26{font-size: 26rpx;}
+.font30{font-size: 30rpx;}
+.font36{font-size: 36rpx;}
+.font40{font-size: 40rpx;}
+
+/* 颜色相关 */
+.color-F{color: #FFFFFF;}
+.color-0{color: #000000;}
+.color-3{color: #333333;}
+.color-6{color: #666666;}
+.color-9{color: #999999;}
+.color-01{color: #010101;}
+.color-F3{color: #F3F3F3;}
+.color-65{color: #656565;}
+.color-007{color: #007EFF;}
+.color-037{color: #0379FF;}
+.color-056{color: #056DE4;}
+.color-EFA{color: #EFA21D;}
+
+/* 背景颜色相关 */
+.bcolor-0{background-color: #000000;}
+.bcolor-F3{background-color: #F3F3F3;}
+.bcolor-F{background-color: #FFFFFF;}
+
+/* 弹性布局 */
+.display-center{display: flex;align-items: center;justify-content: center;} 	/* 全居中 */
+.display-flex{display: flex;}
+.flex-center{display: flex;justify-content: center;}
+.flex-around{display: flex;justify-content:space-around;flex-wrap:wrap;}
+.flex-between{display: flex;justify-content:space-between;flex-wrap:wrap;}
+.flex-start{display: flex;justify-content:flex-start;flex-wrap:wrap;}
+.flex-end{display: flex;justify-content: flex-end;}
+.flex-align-center{align-items:center;}
+.flex-align-end{align-items: flex-end;}
+.flex-center-column{display: flex;justify-content: center;}
+.flex-grow-1{flex-grow: 1;}
+.flex-shrink-1{flex-shrink: 1;}
+.flex-column{flex-direction: column;}
+
+/* 文字相关 */
+.text-center{text-align: center;}
+.text-right{text-align: right;}
+.text-left{text-align: left;}
+.text-mode{writing-mode:vertical-rl;}
+.text-bold{font-weight: bold;}
+.text-break-1{-webkit-line-clamp: 1;}
+.text-break-3{-webkit-line-clamp: 3;}
+.pre-wrap{white-space: pre-wrap;}
+
+/* 字间隔 */
+.letter-2{letter-spacing: 2rpx;}
+.letter-5{letter-spacing: 5rpx;}
+
+/* 高度相关 */
+.center{margin: 0px auto;}
+.height-100{height:100%;}
+.height-60{height: 60rpx;}
+.height-80{height: 80rpx;}
+.height-95{height: 95rpx;}
+.height-98{height: 98rpx;}
+.height-300{height: 300rpx;}
+
+/* 宽度相关 */
+.width-0{width: 0;}
+.width-200{width: 200rpx;}
+.width-50{width:50%;}
+.width-100{width:100%;}
+
+/* padding相关 */
+.padding-0-40{padding: 0 40rpx ;}
+.padding-0-20{padding: 0 20rpx ;}
+.padding-20{padding: 20rpx ;}
+
+
+/* margin相关 */
+.margin-b20{margin-bottom: 20rpx ;}
+.margin-b123{margin-bottom: 123rpx ;}
+
+/* 定位布局相关 */
+.position-parent{position: relative;}
+
+
+
